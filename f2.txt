@@ -1,1 +1,2 @@
 Hi everyone This is github.com
+this is a mine project where we can merge the contants
